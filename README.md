@@ -1,4 +1,4 @@
-### Hi there 👋
+![GNMŞ_Logo01](https://user-images.githubusercontent.com/110631072/182933182-337e9861-1abc-4512-8f74-3042a7eef5b3.png)
 
 <!--
 **gnmsdev/gnmsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
